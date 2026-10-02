@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+google-genai
+flask
+google-api-python-client
+google-auth
